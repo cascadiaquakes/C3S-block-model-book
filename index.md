@@ -1,8 +1,8 @@
-﻿# CRESCENT Block Model Book
+# CRESCENT Block Model Book
 
 A home for notebooks and documentation about the [Cascadia Region Earthquake Science Center (CRESCENT)](https://cascadiaquakes.org) block model.
 
-This book is ready for contributors to add their notebooks. Start with the [example notebook](notebooks/example.ipynb), then follow the contribution instructions in the [repository README](https://github.com/cascadiaquakes/c3S-block-model-book#add-your-notebooks).
+This book is ready for contributors to add their notebooks. Start with the [example notebook](notebooks/example.ipynb), then follow the contribution instructions in the [repository README](https://github.com/cascadiaquakes/C3S-block-model-book#add-your-notebooks).
 
 ## Acknowledgments
 

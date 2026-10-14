@@ -1,12 +1,12 @@
-﻿# CRESCENT Block Model Book
+# CRESCENT Block Model Book
 
 [![License: BSD-3-Clause](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](LICENSE)
 
 A minimal Jupyter Book template for the CRESCENT block model. Add notebooks to build out the book.
 
-Repository: [c3S-block-model-book](https://github.com/cascadiaquakes/c3S-block-model-book)
+Repository: [C3S-block-model-book](https://github.com/cascadiaquakes/C3S-block-model-book)
 
-Published book (after deployment): https://cascadiaquakes.github.io/c3S-block-model-book/
+Published book (after deployment): https://cascadiaquakes.github.io/C3S-block-model-book/
 
 ## Install and preview
 
@@ -63,7 +63,7 @@ If you fork this template, update the repository and published-book links above 
 
 This project is licensed under the BSD 3-Clause License. See [LICENSE](LICENSE).
 
-For corrections or suggestions, [open an issue](https://github.com/cascadiaquakes/c3S-block-model-book/issues).
+For corrections or suggestions, [open an issue](https://github.com/cascadiaquakes/C3S-block-model-book/issues).
 
 ## Acknowledgments
 
