@@ -1,0 +1,19 @@
+﻿# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  title: CRESCENT Block Model Book
+  description: Notebooks and documentation for the CRESCENT block model
+  keywords:
+    - block model
+    - Cascadia
+    - CRESCENT
+  toc:
+    - file: index.md
+    - file: notebooks/example.ipynb
+site:
+  title: CRESCENT Block Model Book
+  template: book-theme
+  options:
+    favicon: crescent_circle.png
+    logo: Crescent_logo.png
+    style: _overrides/custom.css
